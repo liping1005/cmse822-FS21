@@ -8,9 +8,7 @@
 layout: home
 list_title: "What's New"
 ---
-
 # Welcome to CMSE 822, Parallel Computing, FS 21
-
 This is a graduate level course introducing topics associated with
 Parallel Computing. We will focus on fundamental issues with Parallel
 Computing (threading, mutex, hardware, etc.), examine the use of
