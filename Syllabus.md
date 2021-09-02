@@ -34,10 +34,12 @@ The focus of the coures will be:
 ### Instructor
 
 [Dr. Bill Punch](http://www.egr.msu.edu/~punch)
+![Bill Punch](assets/bill.jpg)
 
 Office:  Engineering 2501
 
 Office Hours: after class or by appointment
+
 
 Phone: 517-432-0458
 
@@ -46,6 +48,14 @@ Personal Zoom: [https://msu.zoom.us/my/wfpunch](https://msu.zoom.us/my/wfpunch)
 email: punch at msu dot edu
 
 email is _by far_ the best way to contact me
+
+### Teaching Assistant
+[Nathan Haut](https://cmse.msu.edu/directory/graduate-students/nathan-haut/)
+![Nathan Haut](assets/nathan.jpg)
+
+email: hautnath at msu dot edu
+
+Office hours will be posted at a later date
 
 ### Course Web Site
 
@@ -118,7 +128,7 @@ The instructor reserves the right to adjust the scale for course grades, if nece
 ### Important Dates
 ---------------
 
-See: [Academic Calendar 2018/18](https://reg.msu.edu/ROInfo/Calendar/academic.aspx) for complete dates, but note that:
+See: [Academic Calendar](https://reg.msu.edu/ROInfo/Calendar/academic.aspx) for complete dates, but note that:
 
 *   the last day to add a class without intervention: September 8th
 *   the last day to drop with a full refund: September 27th
