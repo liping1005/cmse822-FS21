@@ -34,7 +34,7 @@ The focus of the coures will be:
 ### Instructor
 
 [Dr. Bill Punch](http://www.egr.msu.edu/~punch)
-![Bill Punch](assets/bill.jpg)
+![Bill Punch](assets/Bill.jpg)
 
 Office:  Engineering 2501
 
