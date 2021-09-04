@@ -9,7 +9,7 @@ Do the [group survey](https://docs.google.com/forms/d/e/1FAIpQLScNrBSEy66HVweYwT
 # Day 0 Inclass
 
 ## Slides
-[day0 slides](Week0/Day0-slides.pdf)
+[day0 slides](Day0-slides.pdf)
 
 ## To turn in on D2L
 Nothing to turn in for this, our first day. But take a look at the next week's work.

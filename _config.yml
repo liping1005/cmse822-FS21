@@ -22,6 +22,10 @@ plugins:
  - jekyll-feed
  - jekyll-seo-tag
 
+collections:
+   posts:
+      output: true
+      permalink: /Weekly/:title
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this

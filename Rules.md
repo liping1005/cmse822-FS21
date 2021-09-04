@@ -11,6 +11,7 @@ to offer your thoughts).
 
 - "Intellectual growth should commence at birth and cease only at
   death", A. Einstein
+  - 3 places to be: in front of the wave, behind the wave, riding the wave.
 - "We don't see things as they are; we see them as we are", Anais Nin
 - Algorithms are **everything**
   - making a bad algorithm parallel makes a bad parallel algorithm.
