@@ -6,6 +6,9 @@ title: Syllabus
 # CMSE 822, Fall 21
 ## Parallel Programming
 
+### Updates
+Rather than change the Syllabus I thought I would post the changes we have discussed early in the class. First, the in-class exercises I had planned will get pulled out as weekly Homework assignments, on the order of 11-12 over the course of the semester. In total those homework assignments will be worth 50% of your grade. Second, the in-class will still count as 10% of the overall grade but will be "graded" essentially on attendance and working during the in-class time period. Finally, the homeworks can be done as a group. You have still have to turn in content to D2L individually, but that content can be the result of group work.
+
 ### Background:
 Calculus at the level of MTH 133. Ability to program proficiently in
 C/C++, basic understanding of data structures and algorithms (both at

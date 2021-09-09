@@ -17,6 +17,7 @@ to offer your thoughts).
   - making a bad algorithm parallel makes a bad parallel algorithm.
 - "Typing is no substitute for thinking", Dartmouth Basic Manual, 1964
   - Don't be a dung beetle programmer
+- Do you know what your compiler has done for you today?
 - Time is relative
 - Fast is last
 - You only have to make the slow parts fast
