@@ -14,7 +14,7 @@ This is stuff that went with the slides
 - [arrays](arrays.cpp)
 - [array ptrs](aryptrs.cpp)
 - [array functions](aryFunctions.cpp)
-- [2d arrays](darray.cpp)
+- [2d arrays](2darray.c)
 
 ### Video to watch
 
