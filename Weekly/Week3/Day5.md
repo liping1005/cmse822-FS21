@@ -7,7 +7,7 @@ title: Week3, Day5
 
 ### C background slides
 Take a look at some information about using command line arguments and some examples
-- [slides](CommandLineArgs.pdf)
+- [slides](commandLineArgs.pdf)
 - [echo](echoCommandLine.c)
 - [CL file](CLcheck.c)
 

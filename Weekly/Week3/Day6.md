@@ -5,7 +5,7 @@ title: Week3, Day6
 
 # Day 06 Preclass
 ### Video to watch
-[Thread video, part 1](https://www.youtube.com/watch?v=F6Ipn7gCOsY&t=415s)
+[Thread video, part 2](https://www.youtube.com/watch?v=F6Ipn7gCOsY&t=415s)
 12:30 to 28:30
 ## Read
 Look at the slides:
